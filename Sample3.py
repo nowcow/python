@@ -9,4 +9,5 @@ elif sale >= 5-:
   print("普通")
 else:
   print("低調")
+
 print("処理終了")
